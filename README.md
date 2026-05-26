@@ -1,5 +1,5 @@
 # Nmap — Guias de Escaneo
-#### Link Redes de Computadoras - Tanenbaum 5ta Edicion: https://bibliotecavirtualapure.wordpress.com/wp-content/uploads/2015/06/redes_de_computadoras-freelibros-org.pdf
+#### Link Redes de Computadoras - Tanenbaum 5ta Edicion: `https://bibliotecavirtualapure.wordpress.com/wp-content/uploads/2015/06/redes_de_computadoras-freelibros-org.pdf`
 Recursos de estudio sobre los principales tipos de escaneo de Nmap para hacking y pentesting. Dos documentos complementarios: uno detallado para aprender y uno visual para consulta rapida.
 
 ---
